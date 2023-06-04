@@ -26,8 +26,7 @@ I'm a student in Computer Engineering from Kasetsart University Chalermphrakiat 
 * 📫  You can contact me at [phatcharaphon23.h@gmail.com](mailto:phatcharaphon23.h@gmail.com)
 * 🧠  I'm learning Node.js
 * 🤝  I'm open to collaborating on 1
-* ⚡  : Creativity 
-* 😄  : Teamwork and Collaboration 
+* ⚡  : Creativity, Teamwork and Collaboration 
 
 ### Skills
 
