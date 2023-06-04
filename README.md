@@ -28,7 +28,6 @@ I'm a student in Computer Engineering from Kasetsart University Chalermphrakiat 
 * 🤝  I'm open to collaborating on 1
 * ⚡  : Creativity 
 * 😄  : Teamwork and Collaboration 
-*
 
 ### Skills
 
