@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Phatcharaphon HONGSA (CREAM)
 ====================================================================================================================================================
 
-Fonntend Developer, Moboile Developer, UX/UI Desigener
+ Moboile Developer, UX/UI Desigener
 ------------------------------------------------------
 
 I'm a student in Computer Engineering from Kasetsart University Chalermphrakiat Sakon Nakhon province campus,I’m interested in applying for the position of Mobile developer and Fondtend Developer to bring knowledge, skill, and experience. To be used in work to improve the product development of the company’s department and ready to learn new things for self-development.
